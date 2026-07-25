@@ -10,9 +10,11 @@ I am based in the New York Metro. Interested in data science, building practical
 ## 🛠 Projects
 
 ### **[Aura](https://devpost.com/software/aura-fzqhar)**
-> *Winner @ HackPrinceton Spring 2026 — Best Use of Enter.pro & KnotAPI Winner*
-* An AI-powered fashion shopping agent that transforms social media posts and trend boards into personalized, shoppable outfits.
+> *Winner @ HackPrinceton Spring 2026 — Enter.pro & KnotAPI Winner*
+* An AI-powered fashion shopping agent that analyzes photos of your current outfit via camera input to build personalized style recommendations.
+* Allows users to speak or type outfit requests (matching specific vibes, occasions, or items) and surfaces real-time product recommendations complete with pricing and direct purchase links.
 * Built with a multi-agent backend (**K2 Think V2**, **Gemini Multimodal**, **Firecrawl**, **KnotAPI**) to handle review parsing, sizing logic, and autonomous checkout.
+* **Contributions:** Led the front-end design & implementation (React & JS), and helped define full-stack technology choices to meet product goals.
 * **Tech:** React, Anime.js, Three.js, Python, ElevenLabs, Gemini API, Firecrawl, KnotAPI
 
 ### **[Spotify Playlist Curator](https://github.com/katelynlouie/2023_hackathon_FHS/blob/main/spotify%20playlist%20curator.py)** 
