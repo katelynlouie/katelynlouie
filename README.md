@@ -1,6 +1,8 @@
 # Hi, I'm Katelyn 👋
 
 **CS '29 @ Cooper Union · Break Through Tech AI Fellow**
+
+
 I am based in the New York Metro. Interested in data science, building practical software, and experimenting with new tech.
 
 ---
