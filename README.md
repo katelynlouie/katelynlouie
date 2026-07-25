@@ -1,6 +1,6 @@
 # Hi, I'm Katelyn 👋
 
-** CS '29 @ Cooper Union · Break Through Tech AI Fellow **
+**CS '29 @ Cooper Union · Break Through Tech AI Fellow**
 I am based in the New York Metro. Interested in data science, building practical software, and experimenting with new tech.
 
 ---
@@ -13,13 +13,14 @@ I am based in the New York Metro. Interested in data science, building practical
 * Built with a multi-agent backend (**K2 Think V2**, **Gemini Multimodal**, **Firecrawl**, **KnotAPI**) to handle review parsing, sizing logic, and autonomous checkout.
 * **Tech:** React, Anime.js, Three.js, Python, ElevenLabs, Gemini API, Firecrawl, KnotAPI
 
-* **[Spotify Playlist Curator](https://github.com/katelynlouie/2023_hackathon_FHS/blob/main/spotify%20playlist%20curator.py)** — *FHS Hacks 2023*
-  * A Python application using the **Spotify Web API** to algorithmically generate unique, non-repetitive playlists based on user-inputted vibes, moods, or keywords.
-  * **Tech:** Python, Spotify API, JSON Parsing
+### **[Spotify Playlist Curator](https://github.com/katelynlouie/2023_hackathon_FHS/blob/main/spotify%20playlist%20curator.py)** 
+> *Winner @ fhs.hacks 2023 - 2nd Place in Advanced Track*
+* A Python application using the **Spotify Web API** to algorithmically generate unique, non-repetitive playlists based on user-inputted vibes, moods, or keywords.
+* **Tech:** Python, Spotify API, JSON Parsing
 
-* **[Energy Data Analysis & Visualization](https://github.com/katelynlouie/2026/blob/energy-proj/2nd_cs101_data_vis_katelyn_tasnia.ipynb)** — *CS101 Data Analysis Project*
-  * Collaborative exploratory data analysis (EDA) using Jupyter Notebooks to clean, analyze, and visualize energy data.
-  * **Tech:** Python, Pandas, Matplotlib, Jupyter Notebook
+### **[Energy Data Analysis & Visualization](https://github.com/katelynlouie/2026/blob/energy-proj/2nd_cs101_data_vis_katelyn_tasnia.ipynb)** — *CS101 Data Analysis Project*
+* Collaborative exploratory data analysis (EDA) using Jupyter Notebooks to clean, analyze, and visualize NYC energy data (Local Law 84).
+* **Tech:** Python, Pandas, Seaborn, Jupyter Notebook
 ---
 
 ## 🎯 Skills & Technologies
