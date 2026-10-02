@@ -22,7 +22,7 @@ I am based in the New York Metro. Interested in data science, building practical
 * A Python application using the **Spotify Web API** to algorithmically generate unique, non-repetitive playlists based on user-inputted vibes, moods, or keywords.
 * **Tech:** Python, Spotify API, JSON Parsing
 
-### **[Energy Data Analysis & Visualization](https://github.com/katelynlouie/2026/blob/energy-proj/2nd_cs101_data_vis_katelyn_tasnia.ipynb)** — *CS101 Data Analysis Project*
+### **[Energy Data Analysis & Visualization](https://github.com/katelynlouie/energy-data-vis-proj)** — *CS101 Data Analysis Project*
 * Collaborative exploratory data analysis (EDA) using Jupyter Notebooks to clean, analyze, and visualize NYC energy data (Local Law 84).
 * **Tech:** Python, Pandas, Seaborn, Jupyter Notebook
 ---
